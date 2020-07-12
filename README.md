@@ -3,4 +3,4 @@ Find matches in a string based on a query Regex with options full match, first m
 
 # Demo:
 
-![demo](https://github.com/anaustinbeing/regex-query-tool/regexquerytool.gif)
+![demo](https://github.com/anaustinbeing/regex-query-tool/tree/master/regexquerytool.gif)
